@@ -22,3 +22,4 @@ python -m pipenv install
 1. Createing a basic CRUD API
 2. Adding Mongodb
 3. Better structure with blueprint and flask-restful
+4. Authentication and Authorization
