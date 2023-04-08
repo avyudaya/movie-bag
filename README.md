@@ -11,5 +11,13 @@
 - Flask-Bcrypt For hashing user password
 - Flask-JWT-Extended For creating tokens for authorization and authentication.
 
+## Getting started:
+`
+pip install --user pipenv
+python -m pipenv shell
+python -m pipenv install
+`
+
 ### STEPS:
 1. Createing a basic CRUD API
+2. Adding Mongodb
