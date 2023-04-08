@@ -29,3 +29,4 @@ python -m pipenv install
 3. Better structure with blueprint and flask-restful
 4. Authentication and Authorization
 5. Exception handling
+6. Password reset
